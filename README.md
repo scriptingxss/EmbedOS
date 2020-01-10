@@ -2,7 +2,7 @@
 EmbedOS - Embedded security testing operating system preloaded with firmware security testing tools. The virtual machine can be downloaded and imported as an OVF file into VirtualBox or VMWare.
 
 # Download Link
-[Google Drive](https://tinyurl.com/EmbedOS-2019)
+[Google Drive](https://tinyurl.com/EmbedOS-2020)
 
 ## Credentials
 Username: `embedos`
@@ -30,6 +30,8 @@ Password: `embeddedappsec`
 - prelink
 - lddtree
 
+plus more...
+
 Some of the above tools will install additional dependencies not listed here such as [radare2](https://github.com/radareorg/radare2), [cwe-checker](https://github.com/fkie-cad/cwe_checker), and others. 
 
 # Vulnerable Firmware (~/firmware)
@@ -38,7 +40,7 @@ Some of the above tools will install additional dependencies not listed here suc
 - [IoTGoat](https://github.com/scriptingxss/IoTGoat)
 
 # Methodology (~/Desktop/Firmware-Security-Testing-Methodology.pdf)
-- Firmware Security Testing Methodology 
+- Firmware Security Testing Methodology - See the following repository for further details https://github.com/scriptingxss/owasp-fstm/
 
 # Feedback
 If you would like to contribute or provide feedback to improve this virtual machine, submit a pull request or get in touch over Twitter [@scriptingxss](https://twitter.com/scriptingxss).
