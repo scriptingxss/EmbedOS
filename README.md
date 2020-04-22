@@ -1,16 +1,17 @@
 # EmbedOS
-EmbedOS - Embedded security testing operating system preloaded with firmware security testing tools. The virtual machine can be downloaded and imported as an OVF file into VirtualBox or VMWare.
+EmbedOS - Embedded security testing operating system based on Ubuntu 18.04 preloaded with firmware security testing tools. The virtual machine can be downloaded and imported as an OVF file into VirtualBox or VMWare.
 
 # Download Link
 [Google Drive](https://tinyurl.com/EmbedOS-2020)
+
+Alternative download site available soon
 
 ## Credentials
 Username: `embedos`
 Password: `embeddedappsec`
 
 # Tools (~/tools)
-- FATv1
-- [FATv2](https://github.com/attify/firmware-analysis-toolkit)
+- [Firmware Analysis Toolkit](https://github.com/attify/firmware-analysis-toolkit)
 - [Firmware Analysis Comparison Toolkit (FACT) ](https://github.com/fkie-cad/FACT_core): Not fully installed. More disk space required. 
 - [fwanalyzer](https://github.com/cruise-automation/fwanalyzer)
 - [ByteSweep](https://gitlab.com/bytesweep/bytesweep)
@@ -37,7 +38,7 @@ Some of the above tools will install additional dependencies not listed here suc
 # Vulnerable Firmware (~/firmware)
 - Mirai affected firmware (DVR based)
 - [Damn Vulnerable Router Project](https://github.com/praetorian-code/DVRF)
-- [IoTGoat](https://github.com/scriptingxss/IoTGoat)
+- [IoTGoat](https://github.com/OWASP/IoTGoat)
 
 # Methodology (~/Desktop/Firmware-Security-Testing-Methodology.pdf)
 - Firmware Security Testing Methodology - See the following repository for further details https://github.com/scriptingxss/owasp-fstm/
