@@ -4,6 +4,15 @@ EmbedOS - Embedded security testing operating system based on Ubuntu 18.04 prelo
 # Download Link
 [Google Drive](https://tinyurl.com/EmbedOS-2020)
 
+[Direct](https://drive.google.com/file/d/1t53Q1LaKxd7WeXiw21syhbGbvZFkLzWh/view?usp=sharing)
+
+```
+shasum -a 256 EmbedOS_2020.2-disk1.vmdk
+f95f8c72e6dc1a57369a37ed4699c50a6ce7c0f7d86b23715a031151e09c4635  EmbedOS_2020.2-disk1.vmdk
+shasum -a 512 EmbedOS_2020.2-disk1.vmdk
+6db0142ddcd63e8096f3a97ca5d964862ea1d80aa71f07095fe5da0ced075d1446998fc13f9062cb22145589129a2ee2849f3f55e7c4b2bbcd0725afba8e3b55  EmbedOS_2020.2-disk1.vmdk
+```
+
 Alternative download site available soon
 
 ## Credentials
@@ -41,7 +50,7 @@ Some of the above tools will install additional dependencies not listed here suc
 - [IoTGoat](https://github.com/OWASP/IoTGoat)
 
 # Methodology (~/Desktop/Firmware-Security-Testing-Methodology.pdf)
-- Firmware Security Testing Methodology - See the following repository for further details https://github.com/scriptingxss/owasp-fstm/
+- Firmware Security Testing Methodology - See the following repository for further details hhttps://scriptingxss.gitbook.io/firmware-security-testing-methodology/
 
 # Feedback
 If you would like to contribute or provide feedback to improve this virtual machine, submit a pull request or get in touch over Twitter [@scriptingxss](https://twitter.com/scriptingxss).
