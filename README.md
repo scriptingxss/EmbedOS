@@ -2,6 +2,8 @@
 EmbedOS - Embedded security testing operating system based on Ubuntu 18.04 preloaded with firmware security testing tools. The virtual machine can be downloaded and imported as an OVF file into VirtualBox or VMWare.
 
 # Download Link
+The most recent version is 2020.2 from October 2020 and can be downloaded via the following links: 
+
 [Google Drive](https://tinyurl.com/EmbedOS-2020)
 
 [Direct](https://drive.google.com/file/d/1t53Q1LaKxd7WeXiw21syhbGbvZFkLzWh/view?usp=sharing)
