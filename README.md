@@ -52,7 +52,7 @@ Some of the above tools will install additional dependencies not listed here suc
 - [IoTGoat](https://github.com/OWASP/IoTGoat)
 
 # Methodology (~/Desktop/Firmware-Security-Testing-Methodology.pdf)
-- Firmware Security Testing Methodology - See the following repository for further details hhttps://scriptingxss.gitbook.io/firmware-security-testing-methodology/
+- Firmware Security Testing Methodology - See the following repository for further details https://scriptingxss.gitbook.io/firmware-security-testing-methodology/
 
 # Feedback
 If you would like to contribute or provide feedback to improve this virtual machine, submit a pull request or get in touch over Twitter [@scriptingxss](https://twitter.com/scriptingxss).
